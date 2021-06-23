@@ -1,0 +1,8 @@
+Enter the city name: bhimavaram
+-------------------------------------------------------------
+Weather Stats for - BHIMAVARAM  || 23 Jun 2021 | 09:45:20 AM
+-------------------------------------------------------------
+Current temperature is: 30.42 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 66 %
+Current wind speed    : 2.15 kmph
